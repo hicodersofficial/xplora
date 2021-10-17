@@ -1,0 +1,30 @@
+{
+  "name": "xplora",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hicodersofficial/xplora.git"
+  },
+  "author": "HiCoders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hicodersofficial/xplora/issues"
+  },
+  "homepage": "https://github.com/hicodersofficial/xplora#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "thispc": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
