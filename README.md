@@ -37,6 +37,8 @@ Options:
 
 ## **Screenshot**
 
-![](https://raw.githubusercontent.com/hicodersofficial/images/main/xplora.png)
+| `xplora`                                                                                          |                                       `xplora --extension .js --filter`                                        |
+| ------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/xplora.png" width="500"> | <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/filter-match-xplora.png" width="500"> |
 
 ### **Thank You!** 💙
