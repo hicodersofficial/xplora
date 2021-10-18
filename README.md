@@ -34,3 +34,9 @@ Options:
   -f, --filter              filter only matched files
   -h, --help                display help for command
 ```
+
+## **Screenshot**
+
+![](https://raw.githubusercontent.com/hicodersofficial/images/main/xplora.png)
+
+### **Thank You!** 💙
