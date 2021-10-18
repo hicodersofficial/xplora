@@ -1,7 +1,7 @@
 {
   "name": "xplora",
   "displayName": "Xplora",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": "index.js",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/hicodersofficial/xplora#readme",
   "dependencies": {
     "chalk": "^4.1.2",
+    "cli-table": "^0.3.6",
     "commander": "^8.2.0",
     "thispc": "^1.0.2"
   },
