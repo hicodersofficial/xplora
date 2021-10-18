@@ -2,7 +2,7 @@
   "name": "xplora",
   "displayName": "Xplora",
   "version": "1.0.2",
-  "description": "",
+  "description": "Xplora is a command-line tool to visualize files & directories on your file system and output them into a hierarchical tree. Xplora also comes with many other great features.",
   "main": "index.js",
   "bin": "index.js",
   "directories": {
@@ -33,8 +33,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "cli-table": "^0.3.6",
-    "commander": "^8.2.0",
-    "thispc": "^1.0.2"
+    "commander": "^8.2.0"
   },
   "devDependencies": {
     "eslint": "^8.0.1"
