@@ -1,7 +1,7 @@
 {
   "name": "xplora",
   "displayName": "Xplora",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Xplora is a command-line tool to visualize files & directories on your file system and output them into a hierarchical tree. Xplora also comes with many other great features.",
   "main": "index.js",
   "bin": "index.js",
