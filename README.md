@@ -35,7 +35,7 @@ Options:
   -fn,  --file-name <value>  File name
   -nr,  --not-recursive      Not recursive
   -nf,  --not-formatted      Not formatted
-  -nct, --not-created-time   Hides file created time
+  -ncd, --not-created-date   Hides file created time
   -fct, --file-created-time  Show file created time
   -h,   --help               Display help for command for xplora
 ```
