@@ -42,7 +42,7 @@ Options:
 
 ## **Ignoring file & directories**
 
-Xplora supports two way for ignoring files & directories firstly by arguments and secondly by `.igonrepath` file.
+Xplora support two ways for ignoring files & directories firstly by arguments and secondly by `.igonrepath` file.
 
 ### 1 Method
 
