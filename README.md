@@ -40,6 +40,54 @@ Options:
   -h,   --help               Display help for command for xplora
 ```
 
+## **Ignoring file & directories**
+
+Xplora supports two way for ignoring files & directories firstly by arguments and secondly by `.igonrepath` file.
+
+### 1 Method
+
+```
+$ xplora --ignore node_modules .git .vscode .idea
+```
+
+By default xplora ignore these directories `node_modules .git .vscode .idea`.
+
+### 2 Method
+
+Create `.ignorepath` file
+
+```
+$ touch .ignorepath
+```
+
+And just add file & directories on each line.
+
+## **Filtering files**
+
+Files can be filter using extensions, name (_support_ `regex exp`), and size (_in bytes_).
+
+**Examples:**
+
+Include `--filter` flag to filter only match files.
+
+`xplora --extension .js --filter` Filter files that matches `.js` extension.
+
+`xplora --file-name index --filter` Filter files that matches `index` filename.
+
+`xplora --file-size 1024 --filter` Filter files that are >= 1KB.
+
+## **Line Of Code (LOC)**
+
+It was never this easy to calculate lines of code for your whole project but, by using one command Xplora can calculate the total lines of code of your project.
+
+Any `text-based extension`(_non-binary_) files are support loc. [List of supported extension](https://github.com/hicodersofficial/xplora/blob/main/lib/shared/textExt.js).
+
+**Command:** `-loc, --line-of-code `
+
+```
+$ xplora -e .js --line-of-code
+```
+
 ## **Screenshot**
 
 | `xplora`                                                                                                |                                      `xplora --extension .js --filter --line-of-code`                                       |
