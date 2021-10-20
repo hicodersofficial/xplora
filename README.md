@@ -90,8 +90,8 @@ $ xplora -e .js --line-of-code
 
 ## **Screenshot**
 
-| `xplora`                                                                                                |                                      `xplora --extension .js --filter --line-of-code`                                       |
-| ------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/1.0.4-xplora.png" width="500"> | <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/Screenshot%202021-10-19%20123045.png" width="500"> |
+| `xplora`                                                                                                |                                `xplora --extension .js --filter --line-of-code`                                |
+| ------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/xplora-1.1.0.png" width="500"> | <img src="https://raw.githubusercontent.com/hicodersofficial/images/main/xplora-1.1.0-filter.png" width="500"> |
 
 ### **Thank You!** 💙
