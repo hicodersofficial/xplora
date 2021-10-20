@@ -4,6 +4,10 @@ A Command line file explorer.
 
 Xplora is a command-line tool to visualize files & directories on your file system and output them into a hierarchical tree. Xplora also comes with many other great features.
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hicodersofficial/images/main/xplora-promo.png" />
+</div>
+
 ## **Installation**
 
 ```
