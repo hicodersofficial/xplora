@@ -38,7 +38,8 @@ Options:
   -f,   --filter               Filter only matched files.
   -d,   --date <value>         Matches created date of file. Formats:
                                (">=mm-dd-yy"), ("<=mm-dd-yy hh:mm a"),
-                               (">mm-dd-yy hh:mm"), (">=mm-dd-yy | <mm-dd-yy")
+                               (">mm-dd-yy hh:mm"),
+                               (">=mm-dd-yy | <mm-dd-yy")
 
   -s,   --file-size <value>    Matched file size in bytes. Format: 1000,
                                (">=1000"), ("<1000"),
